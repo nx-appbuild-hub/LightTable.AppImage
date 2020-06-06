@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Light Table
+Comment=The next generation code editor
+Exec=AppRun %U
+GenericName=Light Table
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Development;TextTools;TextEditor;
+Icon=lighttable
+InitialPreference=3
+StartupWMClass=lighttable
