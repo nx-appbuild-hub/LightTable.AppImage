@@ -1,5 +1,5 @@
 #! /bin/bash
 set -e
-cd ${HOME}
+cd ${OWD}
 
-${APPDIR}/opt/application/LightTable $@
+${APPDIR}/opt/application/LightTable "$@"
